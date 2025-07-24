@@ -1,4 +1,4 @@
-# 📈 RBC US Stock Tracker
+# 📈 Live US Stock Tracker
 
 A Google Sheets-based dividend and stock portfolio tracker built for DIY investors. This tool monitors total return, dividend income, and portfolio performance with real-time data powered by `GOOGLEFINANCE()` and Google Apps Script.
 
