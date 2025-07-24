@@ -48,6 +48,34 @@ Handles data like this:
 | 03/05/2021 | Cash     | Dividend | 1        | 4.59    | 4.59    |
 | 03/08/2021 | MSFT     | Sell     | -3       | 226.68  | 680.05  |
 
+### 💰 Dividend Reinvestment Check
+<img width="1560" height="317" alt="image" src="https://github.com/user-attachments/assets/a6dfa6e1-61f8-4f4d-9572-b8262e30f642" />
+
+This sheet analyzes your TFSA portfolio to evaluate dividend income and DRIP eligibility:
+
+Displays per-stock:
+
+Book value, current value, dividend yield, and frequency
+
+Annual income and average purchase price
+
+DRIP threshold required vs. actual income
+
+Highlights:
+
+✅ Stocks eligible for automatic reinvestment (DRIP)
+
+❌ Stocks that don’t yet qualify based on income
+
+Summarizes:
+
+📈 Average portfolio yield
+
+💸 Total yearly dividend income
+
+💼 TFSA current value in USD and CAD
+
+
 ---
 
 ## 🛠 Custom Apps Script
